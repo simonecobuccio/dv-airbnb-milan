@@ -1,0 +1,16 @@
+neighbourhood_cleansed,performance_tier,n_listings,avg_performance_index
+BUENOS AIRES - VENEZIA,New / Unproven,556,0.0094
+BUENOS AIRES - VENEZIA,Solid,538,0.2077
+BUENOS AIRES - VENEZIA,Star Performer,539,1.693
+CITTA' STUDI,New / Unproven,151,0.0069
+CITTA' STUDI,Solid,125,0.2124
+CITTA' STUDI,Star Performer,133,1.7593
+LAMBRATE,New / Unproven,30,0.0056
+LAMBRATE,Solid,28,0.2211
+LAMBRATE,Star Performer,22,1.6413
+PARCO FORLANINI - ORTICA,New / Unproven,9,0.0032
+PARCO FORLANINI - ORTICA,Solid,11,0.254
+PARCO FORLANINI - ORTICA,Star Performer,5,3.5575
+PARCO LAMBRO - CIMIANO,New / Unproven,47,0.007
+PARCO LAMBRO - CIMIANO,Solid,34,0.2237
+PARCO LAMBRO - CIMIANO,Star Performer,32,1.6124

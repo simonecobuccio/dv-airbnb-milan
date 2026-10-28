@@ -1,0 +1,87 @@
+NIL,Immobiliare_Zone,Sale_EUR_sqm,Rent_EUR_sqm_month,Sale_Trend_Pct,Rent_Trend_Pct
+ADRIANO,"Precotto, Turro",4500,18.66,1.06,-2.0
+AFFORI,"Affori, Bovisa",3895,18.63,2.2,-1.32
+BANDE NERE,"Bande Nere, Inganni",4869,18.87,5.5,1.83
+BARONA,"Famagosta, Barona",4528,19.44,4.02,0.05
+BICOCCA,"Bicocca, Niguarda",3958,17.55,1.75,-3.15
+BOVISA,"Affori, Bovisa",3895,18.63,2.2,-1.32
+BOVISASCA,"Affori, Bovisa",3895,18.63,2.2,-1.32
+BRERA,Centro,11226,31.48,1.84,2.98
+BRUZZANO,"Affori, Bovisa",3895,18.63,2.2,-1.32
+BUENOS AIRES - VENEZIA,"Porta Venezia, Indipendenza",7902,25.15,0.95,0.96
+CANTALUPA,"Abbiategrasso, Chiesa Rossa",4421,19.37,4.71,-0.31
+CASCINA TRIULZA - EXPO,"Uptown, Cascina Merlata, Viale Certosa",4311,18.91,0.82,-0.89
+CENTRALE,"Centrale, Repubblica",6890,23.11,4.22,-2.24
+CHIARAVALLE,"Ponte Lambro, Santa Giulia",3451,16.77,5.25,-0.36
+CITTA' STUDI,"Città Studi, Susa",5780,20.36,1.71,-3.28
+COMASINA,"Affori, Bovisa",3895,18.63,2.2,-1.32
+CORSICA,"Città Studi, Susa",5780,20.36,1.71,-3.28
+DE ANGELI - MONTE ROSA,"Arco della Pace, Arena, Pagano",9601,26.72,0.91,-2.48
+DERGANO,"Affori, Bovisa",3895,18.63,2.2,-1.32
+DUOMO,Centro,11226,31.48,1.84,2.98
+EX OM - MORIVIONE,"Ripamonti, Vigentino",4749,19.9,-0.02,-0.65
+FARINI,"Cenisio, Sarpi, Isola",6581,22.71,2.97,-1.99
+FIGINO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+FORZE ARMATE,"Bande Nere, Inganni",4869,18.87,5.5,1.83
+GALLARATESE,"San Siro, Trenno",4181,18.06,0.89,1.18
+GARIBALDI REPUBBLICA,"Garibaldi, Moscova, Porta Nuova",10052,29.89,2.31,0.5
+GHISOLFA,"Cenisio, Sarpi, Isola",6581,22.71,2.97,-1.99
+GIAMBELLINO,"Napoli, Soderini",5722,20.64,3.53,8.12
+GIARDINI PORTA VENEZIA,"Quadronno, Palestro, Guastalla",9060,27.3,1.42,-0.58
+GRATOSOGLIO - TICINELLO,"Abbiategrasso, Chiesa Rossa",4421,19.37,4.71,-0.31
+GRECO,"Precotto, Turro",4500,18.66,1.06,-2.0
+GUASTALLA,"Quadronno, Palestro, Guastalla",9060,27.3,1.42,-0.58
+ISOLA,"Garibaldi, Moscova, Porta Nuova",10052,29.89,2.31,0.5
+LAMBRATE,"Udine, Lambrate",4461,18.58,5.29,-0.05
+LODI - CORVETTO,"Corvetto, Rogoredo",4358,18.52,-0.05,-2.78
+LORENTEGGIO,"Napoli, Soderini",5722,20.64,3.53,8.12
+LORETO,"Maggiolina, Istria",5285,19.64,2.03,-2.87
+MACIACHINI - MAGGIOLINA,"Maggiolina, Istria",5285,19.64,2.03,-2.87
+MAGENTA - S. VITTORE,"Genova, Ticinese",8199,25.13,2.78,1.41
+MAGGIORE - MUSOCCO,"Uptown, Cascina Merlata, Viale Certosa",4311,18.91,0.82,-0.89
+MECENATE,Forlanini,3871,16.54,1.36,4.75
+MUGGIANO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+NAVIGLI,Navigli,6448,23.0,-0.36,-0.3
+NIGUARDA - CA' GRANDA,"Bicocca, Niguarda",3958,17.55,1.75,-3.15
+ORTOMERCATO,Forlanini,3871,16.54,1.36,4.75
+PADOVA,"Pasteur, Rovereto",4893,20.58,4.71,-2.37
+PAGANO,"Arco della Pace, Arena, Pagano",9601,26.72,0.91,-2.48
+PARCO AGRICOLO SUD,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+PARCO BOSCO IN CITTA,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+PARCO DEI NAVIGLI,"Famagosta, Barona",4528,19.44,4.02,0.05
+PARCO DELLE ABBAZIE,"Ponte Lambro, Santa Giulia",3451,16.77,5.25,-0.36
+PARCO FORLANINI - ORTICA,Forlanini,3871,16.54,1.36,4.75
+PARCO LAMBRO - CIMIANO,"Cimiano, Crescenzago, Adriano",3774,17.8,4.86,-1.77
+PARCO NORD,"Bicocca, Niguarda",3958,17.55,1.75,-3.15
+PARCO SEMPIONE,"Arco della Pace, Arena, Pagano",9601,26.72,0.91,-2.48
+PORTA ROMANA,"Porta Romana, Cadore, Montenero",7302,23.61,2.67,0.73
+PORTELLO,"Fiera, Sempione, City Life, Portello",7005,23.12,4.12,-2.03
+QT 8,"San Siro, Trenno",4181,18.06,0.89,1.18
+QUARTO CAGNINO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+QUARTO OGGIARO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+QUINTO ROMANO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+QUINTOSOLE,"Ponte Lambro, Santa Giulia",3451,16.77,5.25,-0.36
+RIPAMONTI,"Ripamonti, Vigentino",4749,19.9,-0.02,-0.65
+ROGOREDO,"Corvetto, Rogoredo",4358,18.52,-0.05,-2.78
+RONCHETTO DELLE RANE,"Ponte Lambro, Santa Giulia",3451,16.77,5.25,-0.36
+RONCHETTO SUL NAVIGLIO,"Famagosta, Barona",4528,19.44,4.02,0.05
+S. CRISTOFORO,"Famagosta, Barona",4528,19.44,4.02,0.05
+S. SIRO,"San Siro, Trenno",4181,18.06,0.89,1.18
+SACCO,"Bisceglie, Baggio, Olmi",3197,16.03,4.92,4.29
+SARPI,"Cenisio, Sarpi, Isola",6581,22.71,2.97,-1.99
+SCALO ROMANA,"Porta Vittoria, Lodi",5247,20.15,1.41,-3.73
+SELINUNTE,"Bande Nere, Inganni",4869,18.87,5.5,1.83
+STADERA,"Abbiategrasso, Chiesa Rossa",4421,19.37,4.71,-0.31
+STEPHENSON,"Uptown, Cascina Merlata, Viale Certosa",4311,18.91,0.82,-0.89
+TIBALDI,"Ripamonti, Vigentino",4749,19.9,-0.02,-0.65
+TICINESE,"Genova, Ticinese",8199,25.13,2.78,1.41
+TORTONA,"Solari, Washington",7279,23.66,4.34,-0.42
+TRE TORRI,"Fiera, Sempione, City Life, Portello",7005,23.12,4.12,-2.03
+TRENNO,"San Siro, Trenno",4181,18.06,0.89,1.18
+TRIULZO SUPERIORE,"Corvetto, Rogoredo",4358,18.52,-0.05,-2.78
+UMBRIA - MOLISE,"Porta Vittoria, Lodi",5247,20.15,1.41,-3.73
+VIALE MONZA,"Pasteur, Rovereto",4893,20.58,4.71,-2.37
+VIGENTINA,"Porta Vittoria, Lodi",5247,20.15,1.41,-3.73
+VILLAPIZZONE,"Uptown, Cascina Merlata, Viale Certosa",4311,18.91,0.82,-0.89
+WASHINGTON,"Solari, Washington",7279,23.66,4.34,-0.42
+XXII MARZO,"Porta Romana, Cadore, Montenero",7302,23.61,2.67,0.73

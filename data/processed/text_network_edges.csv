@@ -1,0 +1,67 @@
+source,target,weight
+Buenos Aires-Venezia,air conditioning,0.1072
+Buenos Aires-Venezia,bed,0.098
+Buenos Aires-Venezia,building,0.1384
+Buenos Aires-Venezia,center,0.0931
+Buenos Aires-Venezia,central,0.2664
+Buenos Aires-Venezia,comfort,0.1329
+Buenos Aires-Venezia,comfortable,0.1157
+Buenos Aires-Venezia,cozy,0.1378
+Buenos Aires-Venezia,double,0.0808
+Buenos Aires-Venezia,elegant,0.1672
+Buenos Aires-Venezia,heart,0.1078
+Buenos Aires-Venezia,ideal,0.1127
+Buenos Aires-Venezia,large,0.0931
+Buenos Aires-Venezia,location,0.1402
+Buenos Aires-Venezia,meters,0.1047
+Buenos Aires-Venezia,minutes,0.0851
+Buenos Aires-Venezia,modern,0.0863
+Buenos Aires-Venezia,quiet,0.0857
+Buenos Aires-Venezia,renovated,0.1274
+Buenos Aires-Venezia,restaurants,0.1586
+Buenos Aires-Venezia,shower,0.1525
+Buenos Aires-Venezia,sofa bed,0.1115
+Buenos Aires-Venezia,spacious,0.1366
+Buenos Aires-Venezia,station,0.1562
+Buenos Aires-Venezia,walk,0.1108
+air conditioning,Citta’ Studi,0.1222
+bed,Parco Forlanini-Ortica,0.16
+building,Citta’ Studi,0.1174
+center,Citta’ Studi,0.1222
+center,Parco Forlanini-Ortica,0.2
+central,Citta’ Studi,0.1076
+comfort,Citta’ Studi,0.1247
+comfort,Parco Forlanini-Ortica,0.08
+comfortable,Citta’ Studi,0.132
+comfortable,Parco Forlanini-Ortica,0.4
+cozy,Citta’ Studi,0.1711
+cozy,Parco Forlanini-Ortica,0.08
+double,Citta’ Studi,0.0929
+double,Parco Forlanini-Ortica,0.2
+elegant,Citta’ Studi,0.11
+elegant,Parco Forlanini-Ortica,0.12
+ideal,Citta’ Studi,0.1418
+ideal,Parco Forlanini-Ortica,0.2
+large,Citta’ Studi,0.1711
+large,Parco Forlanini-Ortica,0.16
+location,Citta’ Studi,0.1174
+meters,Citta’ Studi,0.1296
+minutes,Citta’ Studi,0.1614
+minutes,Parco Forlanini-Ortica,0.2
+quiet,Citta’ Studi,0.0978
+quiet,Parco Forlanini-Ortica,0.16
+renovated,Citta’ Studi,0.1345
+renovated,Parco Forlanini-Ortica,0.08
+restaurants,Citta’ Studi,0.1418
+restaurants,Parco Forlanini-Ortica,0.08
+shower,Citta’ Studi,0.1271
+shower,Parco Forlanini-Ortica,0.16
+sofa bed,Citta’ Studi,0.1125
+spacious,Citta’ Studi,0.1516
+station,Citta’ Studi,0.154
+Citta’ Studi,bedroom,0.0978
+Citta’ Studi,living room,0.0831
+Citta’ Studi,metro,0.1222
+bedroom,Parco Forlanini-Ortica,0.08
+Parco Forlanini-Ortica,bathroom,0.12
+Parco Forlanini-Ortica,perfect,0.16

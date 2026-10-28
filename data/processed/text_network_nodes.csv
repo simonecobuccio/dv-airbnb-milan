@@ -1,0 +1,34 @@
+id,kind,community,weighted_degree,degree
+Buenos Aires-Venezia,nil,0,3.1067,25
+shower,keyword,0,0.4396,3
+elegant,keyword,0,0.3972,3
+restaurants,keyword,0,0.3804,3
+central,keyword,0,0.374,2
+comfort,keyword,0,0.3376,3
+location,keyword,0,0.2576,2
+building,keyword,0,0.2558,2
+walk,keyword,0,0.1108,1
+heart,keyword,0,0.1078,1
+modern,keyword,0,0.0863,1
+Citta’ Studi,nil,1,3.0438,24
+large,keyword,1,0.4242,3
+cozy,keyword,1,0.3889,3
+renovated,keyword,1,0.3419,3
+station,keyword,1,0.3102,2
+spacious,keyword,1,0.2882,2
+meters,keyword,1,0.2343,2
+air conditioning,keyword,1,0.2294,2
+sofa bed,keyword,1,0.224,2
+bedroom,keyword,1,0.1778,2
+metro,keyword,1,0.1222,1
+living room,keyword,1,0.0831,1
+Parco Forlanini-Ortica,nil,2,2.64,17
+comfortable,keyword,2,0.6477,3
+ideal,keyword,2,0.4545,3
+minutes,keyword,2,0.4465,3
+center,keyword,2,0.4153,3
+double,keyword,2,0.3737,3
+quiet,keyword,2,0.3435,3
+bed,keyword,2,0.258,2
+perfect,keyword,2,0.16,1
+bathroom,keyword,2,0.12,1
